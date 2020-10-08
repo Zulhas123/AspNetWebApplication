@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Coss">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CustomerID" type="xs:int" minOccurs="0" />
+                <xs:element name="CustomerName" type="xs:string" minOccurs="0" />
+                <xs:element name="CustomerBIN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Coss>
+    <CustomerID>1</CustomerID>
+    <CustomerName>Anders</CustomerName>
+    <CustomerBIN>23454365</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>2</CustomerID>
+    <CustomerName>Maria</CustomerName>
+    <CustomerBIN>65756432</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>3</CustomerID>
+    <CustomerName>Trujillo</CustomerName>
+    <CustomerBIN>87965498</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>4</CustomerID>
+    <CustomerName>Ana</CustomerName>
+    <CustomerBIN>45327612</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>5</CustomerID>
+    <CustomerName>Moreno</CustomerName>
+    <CustomerBIN>65789043</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>6</CustomerID>
+    <CustomerName>Momen</CustomerName>
+    <CustomerBIN>43215645</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>7</CustomerID>
+    <CustomerName>Antonio</CustomerName>
+    <CustomerBIN>76898765</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>8</CustomerID>
+    <CustomerName>Hardy</CustomerName>
+    <CustomerBIN>54565654</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>9</CustomerID>
+    <CustomerName>Thomas</CustomerName>
+    <CustomerBIN>78767656</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>10</CustomerID>
+    <CustomerName>Berglund</CustomerName>
+    <CustomerBIN>99887655</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>11</CustomerID>
+    <CustomerName>Christina</CustomerName>
+    <CustomerBIN>88776699</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>12</CustomerID>
+    <CustomerName>Moos</CustomerName>
+    <CustomerBIN>23232455</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>13</CustomerID>
+    <CustomerName>Han</CustomerName>
+    <CustomerBIN>55445467</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>14</CustomerID>
+    <CustomerName>Citeaux</CustomerName>
+    <CustomerBIN>89878770</CustomerBIN>
+  </Coss>
+  <Coss>
+    <CustomerID>15</CustomerID>
+    <CustomerName>Fred</CustomerName>
+    <CustomerBIN>99877654</CustomerBIN>
+  </Coss>
+</NewDataSet>
